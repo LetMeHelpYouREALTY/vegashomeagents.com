@@ -12,7 +12,7 @@ export const siteConfig = {
   shortName: "BHHS",
   url: "https://heyberkshire.com",
   description:
-    "Expert real estate services in Las Vegas and Henderson, NV. Buy, sell, or invest with Dr. Jan Duffy, your trusted Berkshire Hathaway HomeServices Nevada Properties agent.",
+    "Expert real estate services in Las Vegas and Henderson, NV. Buy, sell, or invest with Dr. Jan Duffy, your trusted Las Vegas REALTOR® in real estate since 1983.",
 };
 
 export const agentInfo = {
@@ -81,7 +81,7 @@ export const marketStats = {
 
 // Agent Stats
 export const agentStats = {
-  servingSince: 2008,
+  servingSince: 1983,
   transactionsClosed: 500,
   volumeClosed: "$127M+",
   averageRating: 4.9,
@@ -90,11 +90,11 @@ export const agentStats = {
 
 // Value Propositions
 export const valuePropositions = {
-  main: "When you work with a Berkshire Hathaway HomeServices agent, you're backed by a name synonymous with trust, ethical standards, and financial strength—the same principles that built Warren Buffett's empire.",
+  main: "When you work with Dr. Jan Duffy, you get an agent committed to trust, ethical standards, and putting your interests first.",
   trust:
-    "Berkshire Hathaway HomeServices is the only real estate brand backed by Warren Buffett's Berkshire Hathaway Inc. This means unmatched financial stability, ethical standards, and a global referral network of 50,000+ agents.",
+    "Dr. Jan Duffy has been in real estate since 1983 and brings honest advice and expert representation to every transaction.",
   expertise:
-    "Serving Las Vegas since 2008 with $127M+ in closed transactions, Dr. Jan Duffy combines deep local market knowledge with the resources of a global brand.",
+    "In real estate since 1983 with 500+ transactions and $127M+ in closed volume, Dr. Jan Duffy combines deep local market knowledge with personal service.",
 };
 
 // Neighborhoods served
